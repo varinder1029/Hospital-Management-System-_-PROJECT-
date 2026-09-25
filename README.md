@@ -67,6 +67,9 @@ class Project/
 ├── pateint_info.py
 ├── payment_info.py
 └── rooms_info.py
+│
+├── 📄 README.md
+└── 📄 statement.md
 ```
 
 `1.MAIN_PAGE.py` is the main program from which the different hospital management modules can be accessed.
@@ -210,5 +213,7 @@ The project can be improved by adding:
 ## Author
 
 **Varinder Aggarwal**
+
+**Registration no.--26BCE10331
 
 **Branch:** Computer Science and Engineering (CSE-CORE)
